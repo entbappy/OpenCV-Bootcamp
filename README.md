@@ -18,4 +18,8 @@ STEP 03:
 pip install opencv-python
 ```
 
+Note:
+
+pip install -r requirements.txt
+
 
