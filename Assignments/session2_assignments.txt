@@ -1,0 +1,8 @@
+## Assignment -
+
+1. Read a video & convert the image frames to grayscale & show the 
+outpput realtime
+
+2. Read a video & crop the frame of the video sequence & show it
+real time
+
