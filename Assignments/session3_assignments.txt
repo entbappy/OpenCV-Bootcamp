@@ -2,4 +2,5 @@
 
 1. Apply warp prespective to the docs images inside Resources
 2. Explore 3-4 new shapes inside OpenCV
-
+3. Apply face detection to lena images & to elon video
+4. Apply joining to lambo & robot images ( Horizontal & vartical )
