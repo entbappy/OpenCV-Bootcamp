@@ -1,0 +1,6 @@
+## Assignment -
+
+1. Apply color extraction on any images ( your choice )
+
+2. Apply OCR on resume images & save the text in a txt file
+
