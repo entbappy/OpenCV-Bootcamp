@@ -22,4 +22,11 @@ Note:
 
 pip install -r requirements.txt
 
+Note: 
+If you want to launch jupyter notebook use the below command
+
+```bash
+jupyter-notebook
+```
+
 
