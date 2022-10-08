@@ -1,0 +1,6 @@
+## Assignment -
+
+1. Use croped plate images & appy OCR to extract the plates number & save them to a excel file
+  Note: Write a Python Fuction
+
+
