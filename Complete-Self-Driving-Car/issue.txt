@@ -1,0 +1,20 @@
+If not connected,!!
+This worked for me, after about 25 hours of seeking to find the solution.
+
+
+
+pip install python-engineio==3.13.2
+
+pip install python-socketio==4.6.1
+
+
+
+from github's udacity/self-driving-car-sim/issues/131
+
+
+
+## Error: 
+Could not locate zlibwapi.dll. Please make sure it is in your library path
+
+Refer: 1. https://stackoverflow.com/questions/72356588/could-not-locate-zlibwapi-dll-please-make-sure-it-is-in-your-library-path
+       2. https://www.youtube.com/watch?v=oIzMZFbigsU
